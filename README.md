@@ -2,7 +2,7 @@
   
   
 - 👀 Atualmente atuando na área de Infraestrutura
-- 🌱 Estou me aventurando em Automação de Teste e Desenvolvimento Web
+- 🌱 Estou me aventurando em Automação de Testes e Desenvolvimento Web
 
  
 ##
