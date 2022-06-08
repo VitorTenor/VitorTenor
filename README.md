@@ -18,10 +18,11 @@
   <img align="center" alt="Vitor-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
   <img align="center" alt="Vitor-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
 </div>
+
 ##
-<div>
-  <br>
-</div>
+
+
+<br>
 <div> 
   <a href="https://www.facebook.com/vtlima46//" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white=white" target="_blank"></a>
   <a href="https://instagram.com/vitortenorio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
