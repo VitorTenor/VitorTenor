@@ -8,7 +8,7 @@
 ##
 
  </div style="display: inline_block"><br>
-   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
@@ -17,10 +17,8 @@
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
   <img align="center" alt="Vitor-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-
 </div>
 
-##
 
 <div> 
   <a href="https://www.facebook.com/vtlima46//" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white=white" target="_blank"></a>
