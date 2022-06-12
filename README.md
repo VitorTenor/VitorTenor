@@ -1,8 +1,8 @@
-  ##  Olá, Eu sou o Vitor Tenorio ##
+  ##  Hii, I'm Vitor Tenorio ##
   
   
-- 👀 Atualmente atuando na área de Infraestrutura
-- 🌱 Estou me aventurando em Automação de Testes e Desenvolvimento Web
+- 👀 Currently in the Infrastructure Area.
+- 🌱 I'm venturing into Web Development and Test Automation.
 
  
 ##
