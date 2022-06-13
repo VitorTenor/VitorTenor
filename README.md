@@ -1,4 +1,4 @@
-  ##  Hii, I'm Vitor Tenorio ##
+  ##  Hi there, I'm Vitor Tenorio ##
   
   
 - 👀 Currently in the Infrastructure Area.
