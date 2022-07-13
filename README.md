@@ -6,6 +6,10 @@
 
  
 ##
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div style="display:inline_block" class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vitortelima" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vitortelima?trk=profile-badge">Vitor Tenório</a></div>
+             
 
  <div style="display:inline_block"><br>
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
