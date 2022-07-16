@@ -1,4 +1,4 @@
-  ## <div style = "color:blue"> Hi there, I'm Vitor Tenorio </div>##
+  ## Hi there, I'm Vitor Tenorio##
   
   
 - 👀 Currently in the Infrastructure Area.
