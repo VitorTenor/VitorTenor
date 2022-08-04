@@ -10,15 +10,14 @@
 <br>
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-<br>
+### ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,nodejs,firebase
 )](https://skillicons.dev)
 
-##   
-
-<br>
-
+### 📈 Minhas Estatísticas
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
