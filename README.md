@@ -26,7 +26,7 @@
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fu
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTenor&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 ##
 
