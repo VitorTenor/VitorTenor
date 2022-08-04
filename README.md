@@ -1,6 +1,10 @@
-  ## Hi there, I'm Vitor Tenorio
-
-  
+<h1 align='center'>
+  Hi there, I'm Vitor Tenorio
+  <br/>
+</h1>
+<p align='center'>
+  FullStack Developer
+</p>
   
 - 👀 Currently in the Infrastructure Area.
 - 💻 I'm venturing into Web Development and Test Automation.
