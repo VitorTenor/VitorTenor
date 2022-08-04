@@ -6,20 +6,16 @@
 - 💻 I'm venturing into Web Development and Test Automation.
 
 ##   
-
-<br>
+### ⚡ Tecnologias:
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-⚡ Tecnologias:
-Estas são algumas das tecnologias e ferramentas que trabalho:
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby,c#
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby,c#,dot-net
 )](https://skillicons.dev)
 
 ##
- 📈 Minhas Estatísticas
+### 📈 My Statistics
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| My Statistics                                                                                                                                                           | Main Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTenor&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
