@@ -1,10 +1,10 @@
 <h1 align='center'>
   Hi there, I'm Vitor Tenorio
+  <br>
+  Welcome to my git😄
   <br/>
 </h1>
-<p align='center'>
-  FullStack Developer
-</p>
+<p align='center'> FullStack Developer </p>
 
 ##
   
@@ -23,7 +23,7 @@
 
 | My Statistics                                                                                                                                                           | Main Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTenor&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=VitorTenor&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 ##   
 
