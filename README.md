@@ -5,6 +5,8 @@
 <p align='center'>
   FullStack Developer
 </p>
+
+##
   
 - 👀 Currently in the Infrastructure Area.
 - 💻 I'm venturing into Web Development and Test Automation.
