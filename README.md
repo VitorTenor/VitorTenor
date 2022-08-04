@@ -14,7 +14,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby,csharp
 )](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
