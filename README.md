@@ -7,7 +7,7 @@
 
 ##   
 ### ⚡ Technologies:
-These are some of the technologies and tools I use:
+- These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby,c#,dot-net
 )](https://skillicons.dev)
