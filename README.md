@@ -4,7 +4,7 @@
   Welcome to my git😄
   <br/>
 </h1>
-<p align='center'> FullStack Developer </p>
+<p align='center' style= 'font-weight: bold'> FullStack Developer </p>
 
 ##
   
