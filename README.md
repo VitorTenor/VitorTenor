@@ -6,8 +6,8 @@
 - 💻 I'm venturing into Web Development and Test Automation.
 
 ##   
-### ⚡ Tecnologias:
-Estas são algumas das tecnologias e ferramentas que trabalho:
+### ⚡ Technologies:
+These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,ruby,c#,dot-net
 )](https://skillicons.dev)
