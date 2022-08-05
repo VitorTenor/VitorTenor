@@ -17,9 +17,9 @@
   
 <h3>⚡ Favorites Technologies </h3>
   
-&nbsp; &nbsp; These are some of the technologies and tools I use:
+&nbsp; &nbsp; These are some of my favorites technologies:
 
-&nbsp; &nbsp; &nbsp; &nbsp; [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,selenium,c#,dot-net
+&nbsp; &nbsp; &nbsp; &nbsp; [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,c#,dot-net
 )](https://skillicons.dev)
   
   <br>
