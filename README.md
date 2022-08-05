@@ -8,7 +8,7 @@
   
   <p align='center' font-weight:'bold'> FullStack Developer </p>
   
-<h3>🏽‍💻 About Me </h3>
+  <h3> 💻 About Me </h3>
   
 - 👀 &nbsp; Currently in the Infrastructure Area.
 - 💻 &nbsp; I'm venturing into FullStack Development.
