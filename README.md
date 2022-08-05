@@ -7,9 +7,11 @@
 <p align='center' style='font-weight:bold'> FullStack Developer </p>
 
 ##
+
+<h3>🧑🏽‍💻 About Me </h3>
   
-- 👀 Currently in the Infrastructure Area.
-- 💻 I'm venturing into FullStack Development.
+- 👀 &nbsp; Currently in the Infrastructure Area.
+- 💻 &nbsp; I'm venturing into FullStack Development.
 
 ##   
 ### ⚡ Technologies:
