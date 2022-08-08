@@ -19,7 +19,7 @@
   
 &nbsp; &nbsp; These are some of my favorites technologies:
 
-&nbsp; &nbsp; &nbsp; &nbsp; [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,mongodb,cs,dotnet,nodejs)](https://skillicons.dev)<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; [![SkillIcons](https://skillicons.dev/icons?i=js,ts,java,html,css,nodejs,react,mongodb,cs,dotnet)](https://skillicons.dev)<br/>
   <br>
 
 
