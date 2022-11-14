@@ -12,7 +12,7 @@
   
 - 👀 &nbsp; Currently in the Infrastructure Area.
 - 💻 &nbsp; I'm venturing into FullStack Development.
-- 📚 &nbsp; I'm studying JavaScript, TypeScript, NodeJS, Html, Css, EJS and some others.
+- 📚 &nbsp; I'm studying JavaScript, TypeScript, NodeJS, Html, Css, Java and some others.
   
   <br>
   
