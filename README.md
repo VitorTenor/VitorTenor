@@ -6,13 +6,12 @@
   Welcome to my git😄
 </h1>
   
-  <p align='center' font-weight:'bold'> FullStack Developer </p>
+  <p align='center' font-weight:'bold'> Backend Developer </p>
   
   <h3> 💻 About Me </h3>
   
-- 👀 &nbsp; Currently in the Infrastructure Area.
-- 💻 &nbsp; I'm venturing into FullStack Development.
-- 📚 &nbsp; I'm studying JavaScript, TypeScript, NodeJS, Html, Css, Java and some others.
+- 👀 &nbsp; Currently working in @BoaVistaTecnologia.
+- 📚 &nbsp; I'm studying Java with spring boot.
   
   <br>
   
