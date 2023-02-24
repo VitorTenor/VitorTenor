@@ -11,7 +11,7 @@
   <h3> 💻 About Me </h3>
   
 - 👀 &nbsp; Currently working in @BoaVistaTecnologia.
-- 📚 &nbsp; I'm studying Java with spring boot.
+- 📚 &nbsp; I'm studying Java with Spring Frameworks.
   
   <br>
   
