@@ -6,7 +6,7 @@
   Welcome to my git😄
 </h1>
   
-  <p align='center' font-weight:'bold'> Backend Developer </p>
+  <p align='center' font-weight:'bold'> Software Developer </p>
   
   <h3> 💻 About Me </h3>
   
