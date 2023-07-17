@@ -3,7 +3,7 @@
 <h1 align='center'>
   Hi there, I'm Vitor Tenorio
   <br>
-  Welcome to my git😄
+  Welcome to my github😄
 </h1>
   
   <p align='center' font-weight:'bold'> Software Developer </p>
