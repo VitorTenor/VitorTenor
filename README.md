@@ -25,6 +25,12 @@
 
 <h3>📈  My Statistics </h3>
 
+<div align="center">
+  <a href="https://github.com/VitorTenor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniels-hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels-hc&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniels-hc&hide_border=false&theme=tokyonight&show_icons=true"/>
+</div>
 
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&hide_border=true&count_private=true&theme=jolly)  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTenor&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)   |
 | ------------------- | ------------------- |
