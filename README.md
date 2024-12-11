@@ -10,7 +10,7 @@
   
   <h3> 💻 About Me </h3>
   
-- 👀 &nbsp; Currently working in @BoaVistaTecnologia.
+- 👀 &nbsp; Currently working in @CI&T.
 - 📚 &nbsp; I'm studying Java with Spring Frameworks.
   
   <br>
