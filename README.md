@@ -12,7 +12,7 @@
   
 - 🎓 &nbsp; Postgraduate in Software Engineering.
 - 🎓 &nbsp; Bachelor's degree in Analysis and Systems Development.
-- 👨‍💻 &nbsp; Currently working at [CI&T](https://ciandt.com)
+- 👨‍💻 &nbsp; Currently working at <a href="https://ciandt.com">CI&T</a>
 - 📚 &nbsp; Studying Go.
   
 <br>
