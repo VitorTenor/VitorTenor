@@ -1,45 +1,50 @@
 <body>
   
 <h1 align='center'>
-  Hi there, I'm Vitor Tenorio
+  Hi there, I'm Vitor Tenório
   <br>
-  Welcome to my github😄
+  Welcome to my GitHub 😄
 </h1>
   
-  <p align='center' font-weight:'bold'> Software Developer </p>
+<p align='center' style='font-weight: bold;'>Software Developer</p>
   
-  <h3> 💻 About Me </h3>
+<h3>💻 About Me</h3>
   
-- 👀 &nbsp; Currently working in @CI&T.
-- 📚 &nbsp; I'm studying Java with Spring Frameworks.
+- 🎓 &nbsp; Postgraduate in Software Engineering.
+- 🎓 &nbsp; Bachelor's degree in Analysis and Systems Development.
+- 👨‍💻 &nbsp; Currently working at [CI&T](https://ciandt.com/).
+- 📚 &nbsp; Studying Go.
   
-  <br>
+<br>
   
-<h3>⚡ Favorites Technologies </h3>
+<h3>⚡ Favorite Technologies</h3>
   
-&nbsp; &nbsp; These are some of my favorites technologies:
+Here are some of my favorite technologies:
 
-&nbsp; &nbsp; &nbsp; &nbsp; [![SkillIcons](https://skillicons.dev/icons?i=java,go,js,docker,aws,nodejs,react,postgres,mongo,spring,gitlab)](https://skillicons.dev)<br/>
-  <br>
+[![SkillIcons](https://skillicons.dev/icons?i=java,go,js,docker,aws,nodejs,react,postgres,mongo,spring,gitlab)](https://skillicons.dev)
+<br>
 
-
-<h3>📈  My Statistics </h3>
+<h3>📈 My Statistics</h3>
 
 <div align="center">
   <a href="https://github.com/VitorTenor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VItorTenor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VItorTenor&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTenor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTenor&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
  
-<h3>✉️  Connect with me: </h3>
+<h3>✉️ Connect with Me:</h3>
 
 <div> 
-   &nbsp;  &nbsp;  &nbsp; 
-   &nbsp; <a href="https://www.linkedin.com/in/vitortelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   &nbsp; <a href="https://instagram.com/ovitortenorio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   &nbsp; <a href = "mailto:vitortenorio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
+  <a href="https://www.linkedin.com/in/vitortelima/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://instagram.com/ovitortenorio" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:vitortenorio.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 </body>
