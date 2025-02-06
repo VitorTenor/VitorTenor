@@ -6,7 +6,7 @@
   Welcome to my GitHub 😄
 </h1>
   
-<p align='center' style='font-weight: bold;'>Software Developer</p>
+<p align='center' style='font-weight: bold;'>Software Engineer</p>
   
 <h3>💻 About Me</h3>
   
