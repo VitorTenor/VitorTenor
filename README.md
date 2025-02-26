@@ -11,7 +11,7 @@
 <h3>💻 About Me</h3>
   
 - 🎓 &nbsp; Postgraduate in Software Engineering.
-- 🎓 &nbsp; Graduted degree in Analysis and Systems Development.
+- 🎓 &nbsp; Graduated degree in Analysis and Systems Development.
 - 👨‍💻 &nbsp; Currently working at CI&T
 - 📚 &nbsp; Studying Go.
   
